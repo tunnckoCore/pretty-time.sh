@@ -1,7 +1,7 @@
 #!/bin/sh
 
 if (( $# == 0 )); then
-    echo "usage: $0 165392"
+    echo "usage: $0 23156"
     exit 1
 fi
 
